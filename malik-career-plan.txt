@@ -5,3 +5,5 @@ career plan malik
   basic Api
 - UI/UX Designer
 - Software Engineer
+- Idea 1
+- New Idea
