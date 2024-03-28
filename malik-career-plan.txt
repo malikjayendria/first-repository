@@ -7,3 +7,4 @@ career plan malik
 - Software Engineer
 - Idea 1
 - New Idea
+- Framework
