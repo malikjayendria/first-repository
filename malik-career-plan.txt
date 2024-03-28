@@ -1,4 +1,6 @@
 career plan malik
 
 - IOS development
-- UI/UX Designer
+  swift programming
+  basic Api
+- UI/UX Designer 
