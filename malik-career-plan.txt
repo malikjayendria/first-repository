@@ -5,6 +5,6 @@ career plan malik
   basic Api
 - UI/UX Designer
 - Software Engineer
-- Idea 2
+- Idea 1
 - New Idea
-- Another different framework
+- Framework
